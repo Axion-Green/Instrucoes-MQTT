@@ -1,6 +1,6 @@
 # Projeto IoT - Axion Green (Purificador de Ar)
 
-![Axion Green Logo](axion_green_logo.png)
+![Axion Green Logo](https://github.com/Axion-Green.png)
 
 ## Introdução
 
