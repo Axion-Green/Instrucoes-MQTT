@@ -21,10 +21,9 @@ O back-end é uma plataforma de IoT hospedada em um provedor de serviços em nuv
 ### Front-end
 
 O front-end é uma interface de usuário acessível por meio de um aplicativo móvel ou um site. Ele permite aos usuários visualizar os dados em tempo real, configurar o purificador de ar e receber notificações sobre níveis prejudiciais de poluentes.
-![image](https://github.com/Axion-Green/Instrucoes-MQTT/assets/126187491/675980d0-fa64-4657-8151-53d836db85d0)
 
-![Arquitetura Proposta](https://react-site-commit.vercel.app/)
-
+![image](https://github.com/Axion-Green/Instrucoes-MQTT/assets/126187491/3a842217-07da-48ab-91bc-4a4b17833b0b)
+![link do site](https://react-site-commit.vercel.app/)
 ## Desenvolvimento
 
 Para implementar este projeto, siga as etapas abaixo:
