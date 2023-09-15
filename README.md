@@ -2,6 +2,13 @@
 
 ![Axion Green Logo](https://github.com/Axion-Green.png)
 
+#Sala 1ESPH - Axion Green
+- RM 98036 Henrique Pontes Oliveira
+- RM 98460 Felipe Capriotti da Silva Santos
+- RM 99679 Gustavo Kawamura Christofani
+- RM 550908 Vinicius Santos Yamashita de Farias
+- RM 99874 Rafael Carvalho Mattos
+
 ## Introdução
 
 A Internet das Coisas (IoT) é uma tecnologia que conecta dispositivos físicos à internet, permitindo a coleta e o compartilhamento de dados em tempo real. A IoT desempenha um papel crucial em diversos setores, incluindo saúde, transporte, automação residencial e meio ambiente. O projeto Axion Green é um exemplo de aplicação IoT que busca aprimorar a qualidade do ar em ambientes fechados, utilizando um purificador de ar conectado à internet.
